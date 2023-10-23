@@ -8,7 +8,7 @@ let userID = 'a321f7f4-c556-41f7-b958-ed6c07ac3e63';
 
 //const proxyIPs = ['time.is'];'104.17.253.207','45.66.128.240'
 //const proxyIPs = 'https://popoguide.lge.com/';//'146.56。184.135';hkk.ououga.top
-const proxyIPs = ['8.222.212.219'，'8.219.137.50'，'8.222.197.251'，'8.219.193.22']
+const proxyIPs = ['8.222.212.219'，'8.222.197.251']
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
