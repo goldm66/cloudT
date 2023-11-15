@@ -14,7 +14,7 @@ let userID = 'a321f7f4-c556-41f7-b958-ed6c07ac3e63';
 //const proxyIPs = ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
 //const proxyIPs = ['8.222.212.219','8.222.197.251'];
 
-const proxyIPs = ['104.17.76.47','104.16.3.43','104.16.177.15','104.16.163.253'，'104.16.145.239'];
+const proxyIPs = ['104.17.76.47'];
 //const proxyIPs = 'cdn.anycast.eu.org';
 
 
